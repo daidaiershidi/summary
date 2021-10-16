@@ -1,4 +1,5 @@
 # summary
+- python实现torch.einsum，整体流程与cpp文件相同。如果有其他框架对应的c++的api，照着写一遍，可以方便的写成cpp文件。https://github.com/daidaiershidi/einsum
 - 拼接生成全景图片：底层实现卷积、sift算法，并通过sift算法找到的关键点实现全景图片。 https://github.com/daidaiershidi/sift_img_splice
 - 基于知识库的简易问答系统：使用NLPCC2016KBQA数据集，手动构建NER数据集和SIM数据集，进而实现问答系统。 https://github.com/daidaiershidi/nlp-kbqa
 - 时序脑波分类：基于SleepEEGNet模型，添加了分型网络的残差结构。 https://github.com/daidaiershidi/DUT_Brain-Cognition-Homework
